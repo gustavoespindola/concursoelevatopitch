@@ -8862,12 +8862,21 @@ h6.block-title.hint-text.text-white {
     position: absolute !important;
     left: 0;
     right: 0 !important;
-    bottom: 0 !important;
+    bottom: 22px !important;
   }
   h5.block-title.hint-text.text-white {
     font-size: .75rem;
 }
   h1.text-white {
       font-size: 2rem;
+  }
+  p.basico.text-white.font-arial.small-text.bottom-left.z-index-10.xs-relative.xs-m-b-20.xs-m-t-20 {
+    left: 0rem !important;
+    position: absolute !important;
+    right: 0 !important;
+    text-align: center;
+    font-size: 9px !important;
+    padding: 0 !important;
+    margin: 0 !important;
   }
 }
